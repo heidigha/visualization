@@ -10,8 +10,25 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      Good visualization:  https://public.tableau.com/app/profile/pradeepkumar.g/viz/FoodieFindsinBengaluru/Home
 
+      - Aesthetically pleasing
+      - simple bold colours 
+      - Readable texts
+      - Eye-catching images used - without reading any information, we know that the visualization is food-releated.
+      - Data hierachy:  KPIs are obvious and detail data points
+      - Visualization Hierachy:  Author starts with focus on a single map visuaziation, ability to drill down
+      - Visualization sepearation:  Report is divided into 3 sections for readibility data exploration by users.
+
+
+
+      Bad :  https://public.tableau.com/app/profile/ann.jackson/viz/SuperBowl2018LIIBigGameBattle/BIGGAMEBATTLE
+
+      - The visualization is not easily readable.
+      - No clear text hierachy.
+      - Not enough information for the average reader, more context needed.
+      - the visualization are too "busy".
+      - Lack of legend/information 
 
 
 
@@ -21,13 +38,11 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Good visualization:  Perhaps use another image other than a pizza for Food Type becuase users may assume the visulization is about Italian food only.  
 
 
-
-
-
-
+Bad:  Everything :  e.g. Define a clear purpose/topic of the visualization, use a different type of visualization and texts. 
+      
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
